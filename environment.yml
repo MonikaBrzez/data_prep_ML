@@ -1,0 +1,12 @@
+name: machinelearningcdv
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python== 3.8.2
+- pandas
+- pytest
+- isort
+- pre-commit
+- flake8 
+- pip
